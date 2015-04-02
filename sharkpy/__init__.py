@@ -2,11 +2,8 @@ import sys
 import pygame
 import os
 
-#working_dir = os.path.dirname(os.path.realpath(__file__))
-
 HEIGHT = 800
 WIDTH = 600
-#IMG_PATH = os.path.join(working_dir, "assets/leftshark.png")
 IMG_PATH = os.path.join("/usr/sharkpy/assets/leftshark.png")
 
 def main():
